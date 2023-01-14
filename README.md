@@ -1,2 +1,2 @@
 # AIPL
-An AI Program Language
+The AI Program Language
